@@ -1,4 +1,4 @@
-## This project was presented at India Blockchain Week 2024 at Starknet's Stage for Hacker House TOP 3 projects.
+## 🏆 This project was presented at India Blockchain Week 2024 at Starknet's Stage for Hacker House TOP 3 projects.🏆
 # Project Overview
 StarkStake Wallet is an AI-powered smart contract wallet that enables users to interact with the Starknet blockchain through simple conversational commands, providing features like natural language transaction signing, balance management, and seamless RPC interactions - all designed to make Web3 more approachable for mainstream users.
 # Problem Statement
